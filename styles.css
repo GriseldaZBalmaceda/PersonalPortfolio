@@ -1,13 +1,13 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background-image: url("../assets/Asset 1612.png");
+  background-image: url("/assets/Asset 1612.png");
   background-repeat: repeat;
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
   min-height: 100vh;
-  cursor: url("../assets/small-mouse.png"), pointer;
+  cursor: url("/assets/small-mouse.png"), pointer;
 }
 
 .header {
